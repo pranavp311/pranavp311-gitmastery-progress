@@ -132,5 +132,14 @@
       "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1788160093.234939,
+    "completed_at": 1788160096.135727,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
